@@ -1,0 +1,6 @@
+{
+  "name": "AI Lab Report Assistant",
+  "description": "A high-fidelity academic lab report authoring environment with automatic error analysis, CSV parsing, interactive scientific graph engines, and viva prep assistants for engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
